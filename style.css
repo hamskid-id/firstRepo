@@ -1,5 +1,5 @@
 *{
-	margin:5px;
+	margin:3px;
 	padding:0;
 }
 body{
@@ -446,6 +446,7 @@ video{
 		top:5px;
 		left:15px;
 		
+		
 	}
 	.s-head-div2 li{
 		display: block;
@@ -570,7 +571,7 @@ video{
    .section1{
 
    	    height:60vh;
-	   width:100%;
+	   width:95%;
     }
    .section1-div input {
         font-size: 10px;
