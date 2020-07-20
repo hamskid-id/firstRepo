@@ -438,7 +438,7 @@ video{
 	.s-head-div2{
 		width: 33%;
 		display: none;
-		position: absolute;
+		position: fixed;
 		z-index: 1;
 		background:#DCDCDC;
 		line-height: 40px;
