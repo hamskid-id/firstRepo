@@ -122,7 +122,7 @@ li{
 	height:60vh;
 }
 .section1-div{
-	margin-top:-210px;
+	margin-top:-270px;
 	z-index:1;
 }
 .section1-div div{
@@ -473,7 +473,7 @@ video{
 		width:100%;
 	}
 	.section1-div{
-		margin-top: -180px;
+		margin-top: -160px;
 	}
 	.section1-div-p3, .section1-div1-p3{
 		font-size: 13px;
@@ -565,6 +565,7 @@ video{
     .section1-div{
     	width: 95%;
     	flex-direction: column;
+	 margin-top:-200px;
     }
     .section1-div div{
     	width: 90%;
